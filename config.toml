@@ -1,0 +1,56 @@
+baseURL = "https://imagicthecat.github.io/blog"
+title = "ImagicTheCat"
+theme = "m10c"
+paginate = 8
+defaultContentLanguage = 'fr'
+
+[languages]
+  [languages.fr]
+    lang = "fr"
+    languageName = "Français"
+    weight = 0
+
+[menu]
+  [[menu.main]]
+    name = "Accueil"
+    url = "/"
+    weight = 1
+  [[menu.main]]
+    name = "Tags"
+    url = "/tags/"
+    weight = 2
+  [[menu.main]]
+    name = "À propos"
+    url = "/about/"
+    weight = 3
+
+[params]
+  author = "ImagicTheCat"
+  description = "Rêveur / Codeur de l'ombre."
+  favicon = '/blog/icon.png'
+  avatar = '/blog/avatar.png'
+  menu_item_separator = " - "
+  [[params.social]]
+    icon = "github"
+    name = "Github"
+    url = "https://github.com/ImagicTheCat"
+  [[params.social]]
+    icon = "twitter"
+    name = "Twitter"
+    url = "https://twitter.com/ImagicTheCat"
+  [[params.social]]
+    icon = "rss"
+    name = "RSS feed"
+    url = "/blog/index.xml"
+
+  [params.style]
+    darkestColor = "#242930"
+    darkColor = "#353b43"
+    lightColor = "#afbac4"
+    lightestColor = "#ffffff"
+    primaryColor = "#9e76fa"
+
+[markup]
+  [markup.highlight]
+    style = 'dracula'
+
