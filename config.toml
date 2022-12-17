@@ -39,6 +39,10 @@ defaultContentLanguage = 'fr'
     name = "Twitter"
     url = "https://twitter.com/ImagicTheCat"
   [[params.social]]
+    icon = "mail"
+    name = "Email"
+    url = "mailto:imagicthecat@gmail.com"
+  [[params.social]]
     icon = "rss"
     name = "RSS feed"
     url = "/blog/index.xml"
