@@ -32,7 +32,7 @@ defaultContentLanguage = 'fr'
   menu_item_separator = " - "
   [[params.social]]
     icon = "github"
-    name = "Github"
+    name = "GitHub"
     url = "https://github.com/ImagicTheCat"
   [[params.social]]
     icon = "twitter"
@@ -42,6 +42,10 @@ defaultContentLanguage = 'fr'
     icon = "mail"
     name = "Email"
     url = "mailto:imagicthecat@gmail.com"
+  [[params.social]]
+    icon = "key"
+    name = "PGP key"
+    url = "https://github.com/ImagicTheCat.gpg"
   [[params.social]]
     icon = "rss"
     name = "RSS feed"
