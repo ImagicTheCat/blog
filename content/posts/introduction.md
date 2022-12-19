@@ -2,7 +2,6 @@
 title = "Introduction, pourquoi un blog ?"
 date = 2022-12-19
 tags = ["blog"]
-draft = true
 +++
 
 Pour commencer, j'aime les moyens de communications comme les forums ou les emails. Structurés, différés, plutôt distribués; faire un blog est dans cette continuité.
