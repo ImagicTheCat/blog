@@ -44,11 +44,11 @@ defaultContentLanguage = 'fr'
     url = "mailto:imagicthecat@gmail.com"
   [[params.social]]
     icon = "key"
-    name = "PGP key"
+    name = "Clé PGP/GPG"
     url = "https://github.com/ImagicTheCat.gpg"
   [[params.social]]
     icon = "rss"
-    name = "RSS feed"
+    name = "Flux RSS"
     url = "/blog/index.xml"
 
   [params.style]
