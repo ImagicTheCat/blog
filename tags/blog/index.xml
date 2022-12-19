@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>ImagicTheCat</title>
-    <link>https://imagicthecat.github.io/blog/</link>
-    <description>Recent content on ImagicTheCat</description>
+    <title>blog on ImagicTheCat</title>
+    <link>https://imagicthecat.github.io/blog/tags/blog/</link>
+    <description>Recent content in blog on ImagicTheCat</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Mon, 19 Dec 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://imagicthecat.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 19 Dec 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://imagicthecat.github.io/blog/tags/blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Introduction, pourquoi un blog ?</title>
       <link>https://imagicthecat.github.io/blog/posts/introduction/</link>
@@ -16,16 +16,6 @@
 Un blog est un moyen d&amp;rsquo;expression plus riche que du microblogging comme Twitter. Je peux vraiment y détailler et structurer mes pensées.
 L&amp;rsquo;aspect différé permet de prendre le temps de m&amp;rsquo;exprimer sans être interrompu et de communiquer avec des personnes à travers le monde1.
 L&amp;rsquo;aspect distribué (en l&amp;rsquo;occurrence en dépendant le plus possible de protocoles, formats ouverts et projets libres), favorise le partage de l&amp;rsquo;information et la diversité des façons d&amp;rsquo;exploiter cette information.</description>
-    </item>
-    
-    <item>
-      <title>À propos</title>
-      <link>https://imagicthecat.github.io/blog/about/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://imagicthecat.github.io/blog/about/</guid>
-      <description>Ce blog est un espace d&amp;rsquo;expression personnelle qui peut porter sur n&amp;rsquo;importe quel sujet, de l&amp;rsquo;informatique à des recettes de cuisine. Se référer au premier article pour en apprendre plus sur les raisons de sa création.
-Les publications sont en français avec une éventuelle traduction en anglais, et exceptionnellement uniquement en anglais. Ça ne vaut que pour l&amp;rsquo;article entier, car j&amp;rsquo;utiliserais de toute façon ponctuellement des mots &amp;ldquo;étrangers&amp;rdquo; s&amp;rsquo;ils me semblent plus adaptés.</description>
     </item>
     
   </channel>

@@ -2,12 +2,23 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://imagicthecat.github.io/blog/tags/blog/</loc>
+    <lastmod>2022-12-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://imagicthecat.github.io/blog/</loc>
+    <lastmod>2022-12-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://imagicthecat.github.io/blog/posts/introduction/</loc>
+    <lastmod>2022-12-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://imagicthecat.github.io/blog/posts/</loc>
+    <lastmod>2022-12-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://imagicthecat.github.io/blog/tags/</loc>
+    <lastmod>2022-12-19T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://imagicthecat.github.io/blog/about/</loc>
   </url><url>
     <loc>https://imagicthecat.github.io/blog/categories/</loc>
-  </url><url>
-    <loc>https://imagicthecat.github.io/blog/</loc>
-  </url><url>
-    <loc>https://imagicthecat.github.io/blog/tags/</loc>
   </url>
 </urlset>
