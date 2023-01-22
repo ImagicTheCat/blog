@@ -1,6 +1,7 @@
 +++
 title = "Ma méthodologie: choix d'une licence libre."
 date = 2023-01-22
+tags = ["programming"]
 +++
 
 Cet article décrit mon point de vue et ma méthodologie actuelle pour choisir une licence libre.
