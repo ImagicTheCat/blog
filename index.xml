@@ -5,7 +5,18 @@
     <link>https://imagicthecat.github.io/blog/</link>
     <description>Recent content on ImagicTheCat</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Mon, 19 Dec 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://imagicthecat.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 22 Jan 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://imagicthecat.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Ma méthodologie: choix d&#39;une licence libre.</title>
+      <link>https://imagicthecat.github.io/blog/posts/my-methodology-licensing/</link>
+      <pubDate>Sun, 22 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://imagicthecat.github.io/blog/posts/my-methodology-licensing/</guid>
+      <description>Cet article décrit mon point de vue et ma méthodologie actuelle pour choisir une licence libre.
+Copyleft vs. permissive Ma perception est qu&amp;rsquo;il existe deux grandes catégories de licences: les virales/copyleft1 et les &amp;ldquo;permissives&amp;rdquo;. Je n&amp;rsquo;aime pas vraiment le terme &amp;ldquo;permissives&amp;rdquo; parce qu&amp;rsquo;il sous-entend qu&amp;rsquo;une licence libre serait restrictive par défaut, ce qui est plutôt l&amp;rsquo;inverse pour moi.
+Exemple de licence virale/copyleft: GPL-3.0 Exemple de licence permissive: Apache-2.0 Est-ce qu&amp;rsquo;une licence copyleft est &amp;ldquo;plus libre&amp;rdquo; qu&amp;rsquo;une licence non copyleft, ou l&amp;rsquo;inverse ?</description>
+    </item>
+    
     <item>
       <title>Introduction, pourquoi un blog ?</title>
       <link>https://imagicthecat.github.io/blog/posts/introduction/</link>
