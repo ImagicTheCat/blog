@@ -29,7 +29,6 @@ defaultContentLanguage = 'fr'
   description = "Rêveur / Codeur de l'ombre."
   favicon = '/blog/icon.png'
   avatar = '/blog/avatar.png'
-  images = ['avatar.png']
   menu_item_separator = " - "
   [[params.social]]
     icon = "github"
