@@ -4,6 +4,9 @@ theme = "m10c"
 paginate = 8
 defaultContentLanguage = 'fr'
 
+[security.exec]
+  allow = ['^dart-sass-embedded$', '^go$', '^npx$', '^postcss$', '^asciidoctor$']
+
 [languages]
   [languages.fr]
     lang = "fr"
