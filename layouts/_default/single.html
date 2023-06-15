@@ -7,6 +7,11 @@
         <div>
           {{ partial "icon.html" (dict "ctx" $ "name" "calendar") }}
           {{ time.Format "Jan 2, 2006" .PublishDate }}
+          {{ if ne .PublishDate .Lastmod }}
+            &nbsp;
+            {{ partial "icon.html" (dict "ctx" $ "name" "edit") }}
+            {{ time.Format "Jan 2, 2006" .Lastmod }}
+          {{ end }}
         </div>
         <div>
           {{ partial "icon.html" (dict "ctx" $ "name" "clock") }}
