@@ -7,6 +7,7 @@ defaultContentLanguage = 'fr'
 [languages]
   [languages.fr]
     lang = "fr"
+    languageCode = 'fr-FR'
     languageName = "Français"
     weight = 0
 
