@@ -1,4 +1,4 @@
-baseURL = "http://imagicthecat.thul.fr"
+baseURL = "https://imagicthecat.thul.fr"
 title = "ImagicTheCat"
 theme = "m10c"
 paginate = 8
@@ -35,13 +35,13 @@ defaultContentLanguage = 'fr'
   avatar = '/avatar.png'
   menu_item_separator = " - "
   [[params.social]]
+    icon = "code"
+    name = "Projets / Dépôts"
+    url = "https://imagicthecat.thul.fr/fossils/"
+  [[params.social]]
     icon = "github"
     name = "GitHub"
     url = "https://github.com/ImagicTheCat"
-  [[params.social]]
-    icon = "twitter"
-    name = "Twitter"
-    url = "https://twitter.com/ImagicTheCat"
   [[params.social]]
     icon = "mail"
     name = "Email"
@@ -49,7 +49,7 @@ defaultContentLanguage = 'fr'
   [[params.social]]
     icon = "key"
     name = "Clé PGP/GPG"
-    url = "https://github.com/ImagicTheCat.gpg"
+    url = "/pgp-key.txt"
   [[params.social]]
     icon = "rss"
     name = "Flux RSS"
