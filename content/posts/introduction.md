@@ -36,6 +36,6 @@ Ce blog est avant tout constitué de fichiers sources qui produisent un site sta
 
 Généré avec [Hugo](https://gohugo.io/), le blog dépend de [GitHub](https://github.com) pour l'hébergement. Mais ça n'est pas une condition nécessaire; il est possible de migrer vers un serveur personnel ou même [IPFS](https://ipfs.tech). Comme mes projets sont sur GitHub, il est cohérent de l'héberger au même endroit.
 
-Le blog n'a pas de système de commentaires pour l'instant, mais je ne pense pas que ça soit nécessaire; il est possible de commenter un des articles depuis une autre plateforme. Si je devais ajouter un système, je mettrais probablement en place une instance [Discourse](https://www.discourse.org/).
+Le blog n'a pas de système de commentaires pour l'instant, mais je ne pense pas que ça soit indispensable; il est possible de commenter un des articles depuis une autre plateforme. Si je devais ajouter un système, je mettrais probablement en place une instance [Discourse](https://www.discourse.org/).
 
 Je ne sais pas à quel point je prendrais du plaisir à publier sur le blog et si je serais prolifique, mais j'aime le fait d'avoir un espace d'expression pérenne à ma disposition.
