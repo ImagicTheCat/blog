@@ -70,7 +70,7 @@ Pour ce qui est des points **1.** et **2.**, l'idée de collaborer avec tout le 
 
 Déjà, la plupart de mes projets sont *solo*; je n'ai pas l'intention de collaborer de manière *étroite*, i.e. sur la même codebase, avec d'autres personnes. Pour d'éventuels projets à plusieurs, ce serait sûrement en petit comité avec des personnes qui se comprennent, se complètent et partagent une vision cohérente plutôt qu'avec un grand nombre de personnes divergentes.
 
-Cela n'exclue pas la discussion, des suggestions ou la proposition de patchs (potentiellement ensuite adaptés), ce qui serait alors plus une forme de collaboration *distante* (en opposition à étroite).
+Cela n'exclue pas la discussion, des suggestions ou le partage de patchs (pour la communauté ou dans un but d'exemple), ce qui serait alors plus une forme de collaboration *distante* (en opposition à étroite).
 
 Pour les points **3.** et **4.**, je ne pense pas avoir un jour besoin de plus que ce dont SQLite a besoin pour son développement. Les features de Fossil me paraissent essentielles et suffisantes.
 
