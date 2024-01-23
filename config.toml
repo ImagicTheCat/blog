@@ -1,12 +1,11 @@
 baseURL = "https://imagicthecat.thul.fr"
-title = "ImagicTheCat"
+title = "Imagic"
 theme = "m10c"
 paginate = 8
 defaultContentLanguage = 'fr'
 
 [languages]
   [languages.fr]
-    lang = "fr"
     languageCode = 'fr-FR'
     languageName = "Français"
     weight = 0
@@ -26,8 +25,8 @@ defaultContentLanguage = 'fr'
     weight = 3
 
 [params]
-  author = "ImagicTheCat"
-  description = "Rêveur / Codeur de l'ombre."
+  author = "Imagic"
+  description = "Rêveur / Développeur de l'ombre."
   favicon = '/icon.png'
   avatar = '/avatar.png'
   menu_item_separator = " - "
